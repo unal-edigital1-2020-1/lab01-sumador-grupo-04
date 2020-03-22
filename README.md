@@ -3,7 +3,7 @@ laboratorio 01 introducción a HDL
 
 En esta plantilla debe adicionar la documentación del laboratorio
 
-* Juan Sebastian Gil Roa
-* Nombres y Apellidos Estudiante 2
-* Nombres y Apellidos Estudiante 3
+* Fabián Steven Galindo Peña
+* Juan Sebastián Gil Roa
+* Juan Camilo Rojas Dávila
 
