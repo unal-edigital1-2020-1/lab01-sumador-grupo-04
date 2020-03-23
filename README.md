@@ -7,15 +7,21 @@ En esta plantilla debe adicionar la documentación del laboratorio
 * Juan Sebastián Gil Roa
 * Juan Camilo Rojas Dávila
 
-### Introducción:
-En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bits apartir de un de 1 bit utlizando herramientas de programacion de hardware. Se trabajo la implementacion de compuertas logicas para crear el sumador. Se realiza la tabla de verdad y la simulacion para comprobar. 
-##### Objetivos:
+### Introducción
+
+En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bits a partir de un de 1 bit utlizando herramientas de programación y de diseño de hardware. Se trabajó la implementacion de compuertas lógicas para crear el sumador. Posteriromente se simularon los códigos usados en el programa.
+
+##### Objetivos
 
   * Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
   * Afianzar conceptos de logica combinacional y algebra booleana.
   * Aprender a hacer simulaciones.
 
 ### Primera parte: comprender el sumador de 1 bit
+
+Un sumador de un bit consiste en 3 entradas (A, B, Ci) y dos salidas (S y Cout). A y B son las entradas del número inicial y Ci es la entrada del segundo dígito en caso de que se haya hecho una suma antes. S es el primer dígito del resultado de la suma y Cout el segundo dígito que pasaría a un siguiente sumador en caso de que el número a sumar tenga varios bits. La tabla de verdad para el sumador sería:
+
+![tabla de verdad](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/tverdad.png)
 
 Se entregaron unos códigos de sumadores de 1 bit para comprenderlos y compararlos. 
 
@@ -46,6 +52,7 @@ Para verificar que el código quedara bien se realizó la simulació del sumador
 ![simulación 4 bit](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/4bit.jpeg)
 
 ### Conclusiones
+
  * Vivado es un gran herramienta para simular los diseños de hard que necesiten. 
  * Es mas facil y eficaz realizar el sumador de 4 bits uniendo 4 de 1 bits, que realizar uno de 4 bits directamente.
  * Se Aprendio a usar la herramienta para realizar las simulaciones y comprobar que el diseño sea el correcto.
