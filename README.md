@@ -9,13 +9,14 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 ### Introducción
 
-En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bits a partir de un de 1 bit utlizando herramientas de programación y de diseño de hardware. Se trabajó la implementacion de compuertas lógicas para crear el sumador. Posteriromente se simularon los códigos usados en el programa.
+En este documento se muestra el paso a paso de la realización de un sumador de 4 bits a partir de un de 1 bit utilizando herramientas de programación y de diseño de hardware. Se trabajó la implementación de compuertas lógicas para crear el sumador. Posteriormente se simularon los códigos usados en el programa.
 
 ##### Objetivos
 
-  * Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
-  * Afianzar conceptos de logica combinacional y algebra booleana.
+  * Realizar un sumador de 4 bits, a partir de uno de 1 bit.
+  * Afianzar conceptos de lógica combinacional y algebra booleana.
   * Aprender a hacer simulaciones.
+
 
 ### Primera parte: comprender el sumador de 1 bit
 
@@ -53,7 +54,8 @@ Para verificar que el código quedara bien se realizó la simulació del sumador
 
 ### Conclusiones
 
- * Vivado es un gran herramienta para simular los diseños de hard que necesiten. 
- * Es mas facil y eficaz realizar el sumador de 4 bits uniendo 4 de 1 bits, que realizar uno de 4 bits directamente.
- * Se Aprendio a usar la herramienta para realizar las simulaciones y comprobar que el diseño sea el correcto.
+ * Vivado es una gran herramienta para simular los diseños de hardware que necesiten. 
+ * Es más fácil y eficaz realizar el sumador de 4 bits uniendo 4 de 1 bits, que realizar uno de 4 bits directamente.
+ * Se aprendió a usar la herramienta para realizar las simulaciones y comprobar que el diseño sea el correcto.
+
  
