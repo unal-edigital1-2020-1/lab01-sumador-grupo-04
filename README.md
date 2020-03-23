@@ -8,7 +8,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
 * Juan Camilo Rojas Dávila
 
 ### Introducción:
-En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bit apartir de un de 1 bit utlizando herramientas de programacion de hardware.
+En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bit apartir de un de 1 bit utlizando herramientas de programacion de hardware. 
 ##### Objetivos:
 
   * Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
@@ -46,3 +46,7 @@ Para verificar que el código quedara bien se realizó la simulació del sumador
 ![simulación 4 bit](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/4bit.jpeg)
 
 ### Conclusiones
+ * Vivado es un gran herramienta para simular los diseños de hard que necesiten. 
+ * Es mas facil y eficaz realizar el sumador de 4 bits uniendo 4 de 1 bits, que realizar uno de 4 bits directamente.
+ * Se Aprendio a usar la herramienta para realizar las simulaciones y comprobar que el diseño sea el correcto.
+ 
