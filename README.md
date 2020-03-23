@@ -8,7 +8,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
 * Juan Camilo Rojas Dávila
 
 ### Introducción:
-En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bit apartir de un de 1 bit utlizando herramientas de programacion de hardware. 
+En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bits apartir de un de 1 bit utlizando herramientas de programacion de hardware. Se trabajo la implementacion de compuertas logicas para crear el sumador. Se realiza la tabla de verdad y la simulacion para comprobar. 
 ##### Objetivos:
 
   * Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
