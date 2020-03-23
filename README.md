@@ -7,3 +7,5 @@ En esta plantilla debe adicionar la documentación del laboratorio
 * Juan Sebastián Gil Roa
 * Juan Camilo Rojas Dávila
 
+# Primera parte: comprender el sumador de 1bit
+
