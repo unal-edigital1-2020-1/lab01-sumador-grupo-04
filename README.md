@@ -29,7 +29,9 @@ En este código sólo se le pide al programa que haga la suma y que muestre los 
 
 ### Segunda parte: Análisis de las simulaciones
 
-Se llevaron los códigos al programa Vivado para poder hacer simulaciones de estos.
+Se llevó el código al programa Vivado para poder hacer simulaciones de este usando los distintos casos de prueba. Los resultados fueron los siguientes:
+
+![simulación 1 bit](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/1bit.jpeg)
 
 ### Tercera parte: Creación del sumador de 4 bits
 
@@ -41,6 +43,6 @@ Para hacer el sumador de 4 bits era necesario usar uno de los códigos hechos pa
 
 Para verificar que el código quedara bien se realizó la simulació del sumador hecho. Se hizo un archivo que genere los casos de prueba para el sumador y así poder hacer la simulación. Los resultados se muestran a continuación e indican que todo se hizo correctamente.
 
-
+![simulación 4 bit](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/4bit.jpeg)
 
 ### Conclusiones
