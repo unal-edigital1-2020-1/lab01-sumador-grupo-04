@@ -11,9 +11,9 @@ En esta plantilla debe adicionar la documentación del laboratorio
 En este documento se muestra el paso a paso de la realizacion de un sumador de 4 bit apartir de un de 1 bit utlizando herramientas de programacion de hardware.
 ##### Objetivos:
 
-  -Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
-  -Afianzar conceptos de logica combinacional y algebra booleana.
-  -Aprender a hacer simulaciones.
+  * Realizar un sumador de 4 bits, aprtir de uno de 1 bit.
+  * Afianzar conceptos de logica combinacional y algebra booleana.
+  * Aprender a hacer simulaciones.
 
 ### Primera parte: comprender el sumador de 1 bit
 
