@@ -9,7 +9,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 ### Introducción
 
-
+##### Objetivos:
 
 ### Primera parte: comprender el sumador de 1 bit
 
@@ -31,3 +31,12 @@ Se llevaron los códigos al programa Vivado para poder hacer simulaciones de est
 
 Para hacer el sumador de 4 bits era necesario usar uno de los códigos hechos para después instanciarlo 4 veces y sumar los 4 bits. Teniendo en cuenta que las salidas Cout influencian al sumador siguiente y así. La siguiente imagen muestra la forma en la que debería trabajar. 
 
+![Diagrama sum4bcc](https://github.com/unal-edigital1-2020-1/lab01-sumador-grupo-04/blob/master/Captura%20de%20Pantalla%202020-03-23%20a%20la(s)%2017.23.47.png)
+
+### Cuarta parte: Simulación del sumador de 4 bits
+
+Para verificar que el código quedara bien se realizó la simulació del sumador hecho. Se hizo un archivo que genere los casos de prueba para el sumador y así poder hacer la simulación. Los resultados se muestran a continuación e indican que todo se hizo correctamente.
+
+
+
+### Conclusiones
