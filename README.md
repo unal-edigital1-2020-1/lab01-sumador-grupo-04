@@ -7,9 +7,15 @@ En esta plantilla debe adicionar la documentación del laboratorio
 * Juan Sebastián Gil Roa
 * Juan Camilo Rojas Dávila
 
-### Introducción
+### Introducción:
 
 ##### Objetivos:
+
+Realizar un sumador de 4bits a partir de un sumador de 1 bit.
+  -
+  -
+  
+  
 
 ### Primera parte: comprender el sumador de 1 bit
 
